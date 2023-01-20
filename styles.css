@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main-image {
+    height: 1080px;
+    background: no-repeat;
+    background-image: url(fon.jpg);
+    background-size: cover;
+}
+.header, .links, .footer {
+    background-color: #E5E000;    
+}
+h2,h3, h4 {
+    color: rgb(247, 250, 252);
+}
+.header  {
+	padding: 80px;
+}
+.footer  {
+    display: flex;
+    padding: 77px 80px;   
+    color: hwb(0 98% 1%);
+    justify-content: space-between;
+    align-items: center;
+}
+.links {
+    padding: 36px 80px;
+}
+.landing  {
+    padding: 100px 80px;
+}
+landing h3 {
+    color: #000;
+}
+#osnovy {
+    font-size: 46px;
+}
+
