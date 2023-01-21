@@ -11,7 +11,7 @@ body {
 .header, .links, .footer {
     background-color: #E5E000;    
 }
-h2,h3, h4 {
+h2, h4 {
     color: rgb(247, 250, 252);
 }
 .header  {
@@ -29,9 +29,6 @@ h2,h3, h4 {
 }
 .landing  {
     padding: 100px 80px;
-}
-landing h3 {
-    color: #000;
 }
 #osnovy {
     font-size: 46px;
